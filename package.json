@@ -1,0 +1,19 @@
+{
+  "name": "local-storage-wrapper",
+  "version": "1.0.0",
+  "description": "local-storage-wrapper-from-bontus-mayor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevEmmy001/local-storage-wrapper.git"
+  },
+  "author": "Emeka Victor for Gdg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevEmmy001/local-storage-wrapper/issues"
+  },
+  "homepage": "https://github.com/DevEmmy001/local-storage-wrapper#readme"
+}
